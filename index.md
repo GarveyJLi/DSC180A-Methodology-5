@@ -1,7 +1,9 @@
 Garvey Li
+
 gjl001@ucsd.edu
 
 DSC 180A A01: Precision Genomics with Personalized Genetic Risk Prediction
+
 Tiffany Amariuta
 
 
